@@ -13,6 +13,8 @@ I created these slides while going through the course myself. It is recommended 
 * [Week 3](week3/week3.pdf)
 * [Week 4](week4/week4.pdf)
 
+Slides made with [Deckset](https://www.decksetapp.com/).
+
 ## Contributing
 
 [Pull requests](https://guides.github.com/activities/forking/) are welcome. :wink:
